@@ -1,107 +1,106 @@
-# AI FunVerse V2 - Client-Side Browser AI Entertainment Platform
+# Live Demo
 
-AI FunVerse V2 is a high-performance, futuristic AI entertainment platform built from the ground up to execute all machine learning, computer vision, and graphic models **100% inside the user's browser**. 
+Check out the deployed version of the project here:
 
-By replacing standard server-side computer vision libraries (such as Flask + OpenCV `cv2.VideoCapture()`) with client-side WebRTC, HTML5 Canvas, and Google MediaPipe WASM bindings, the entire project builds to a set of static files that can be **deployed to Vercel instantly without any configuration**.
+https://ai-funverse.vercel.app/
 
----
+# Project Title:-
 
-## 🔮 Key Vision Experiences
+**AI FunVerse**
 
-1. **Harry Potter Invisible Cloak:** Capture an empty background, hold up a red cloth, and witness real-time wizarding invisibility using advanced canvas edge feathering and lighting metric calibration.
-2. **Neon Air Drawing:** Draw glowing neon streaks in mid-air. Use pinch gesture metrics to pan, scale, and rotate your air drawing, and peace-sign gestures to erase strokes.
-3. **Color Ball Hunter:** Pop falling circles using collision detection on finger tips (index/middle). Maintain combo streaks, manage hearts/lives, and compete in the local leaderboard.
-4. **Rock Paper Scissors:** Engage in a hand gesture duel against a cybernetic AI. Employs neural shape checks to freeze rock, paper, and scissors states on countdown.
-5. **Avengers AR Studio:** Project procedural 2D face mesh overlays (Iron Man HUD, squint-reactive Spider-Man lenses, Captain America spinning corner shield, Black Panther vibranium grid & aura).
-6. **Fun Effects Lab:** Tab between a 3D WebGL Particle Sphere (3000 nodes reacting to pinch explosions in Three.js), Neon Elastic Hand Strings, and a Strange Portal expanding with finger spread.
-7. **Live Webcam Puzzle:** scrambles your camera feed into M x N jigsaw shards. Pinch and drag moving video pieces into place to complete the puzzle.
+**Author(s):** Snehal Wath
 
----
+**Affiliation:** RTMNU
 
-## 🛠️ Technology Stack
+**Date:** June 2026
 
-* **Core:** React, Vite, TypeScript, React Router
-* **Styles:** Tailwind CSS v4, Framer Motion (micro-animations), Cyberpunk glassmorphism, Neon glow overlays
-* **Vision & Graphics:** Google MediaPipe (Hand Landmarker, Face Landmarker), HTML5 Canvas, WebGL, Three.js
-* **Sound Effects:** Procedural Audio Synthesis via browser native **Web Audio API**
-* **Persistence:** HTML5 Local Storage
+# Abstract
 
----
+AI FunVerse is an interactive web-based platform that combines Artificial Intelligence, Computer Vision, and entertainment. It allows users to experience fun camera-based activities such as the Harry Potter Invisible Cloak, Neon Air Drawing, Color Ball Hunter, Rock Paper Scissors, Magic Zone, and Live Puzzle. The platform runs entirely inside the browser, providing a smooth and engaging experience without requiring any backend camera processing.
 
-## 🚀 Getting Started
+# Introduction
 
-### 1. Installation Guide
+Artificial Intelligence is becoming a part of our everyday lives, but many people still find it difficult to understand. AI FunVerse makes learning AI more enjoyable by turning it into interactive games and experiences. Using a webcam and simple hand gestures, users can explore different AI-powered activities in a fun and easy-to-use environment.
 
-To configure the project on your local workstation:
+# Literature Review
 
-```bash
-# 1. Clone the project and navigate to the directory
-cd AIFUN
+Computer Vision and Artificial Intelligence are widely used in gaming, education, and interactive applications. Technologies such as hand tracking, face tracking, gesture recognition, and augmented reality have made it possible to build engaging browser-based experiences. AI FunVerse combines these technologies into a single platform that demonstrates practical AI applications through entertainment.
 
-# 2. Install all development & runtime dependencies
-npm install
-```
+# Methodology
 
-### 2. Development Guide
+The development of AI FunVerse follows a step-by-step approach.
 
-To start the Vite hot-reloading development server:
+First, different AI-based experiences were planned and designed. Camera access and hand tracking were implemented using MediaPipe, while interactive graphics were developed using modern web technologies. Each experience was created and tested individually before being integrated into a single platform. Finally, the user interface was refined to provide smooth navigation, attractive animations, and an enjoyable experience.
 
-```bash
-# Start local server
-npm run dev
-```
+# Implementation
 
-Open your browser and navigate to `http://localhost:5173`. Make sure to grant webcam permissions when prompted!
+## Programming Languages
 
-### 3. Production Build Guide
+* TypeScript
+* JavaScript
+* HTML
+* CSS
 
-To compile a highly optimized static bundle ready for distribution:
+## Frontend Technologies
 
-```bash
-# Verify TypeScript types and compile build assets
-npm run build
-```
+* React.js
+* Vite
 
-The resulting assets will be created in the `dist/` directory. You can preview the production bundle locally:
+## Libraries Used
 
-```bash
-# Preview build output
-npm run preview
-```
+* MediaPipe
+* Three.js
+* HTML5 Canvas
+* Framer Motion
+* Tailwind CSS
 
----
+## Tools Used
 
-## 📦 Vercel Deployment Guide
+* VS Code
+* GitHub
+* Vercel
 
-AI FunVerse V2 is completely static, with no Python or Flask backend requirements. This makes deploying to Vercel trivial:
+## Main Features
 
-### Option A: Using the Vercel CLI (Recommended)
+* Harry Potter Invisible Cloak
+* Neon Air Drawing
+* Color Ball Hunter
+* Rock Paper Scissors
+* Magic Zone
+* Live Puzzle
+* Interactive Camera Experiences
+* Hand Gesture Recognition
 
-1. Install the Vercel CLI globally:
-   ```bash
-   npm install -g vercel
-   ```
-2. Log in and deploy from the project root:
-   ```bash
-   vercel
-   ```
-3. Follow the prompts (use default settings for Vite/React).
-4. Run production deployment:
-   ```bash
-   vercel --prod
-   ```
+## Steps Followed
 
-### Option B: Using GitHub Integration
+1. Requirement Analysis
+2. UI/UX Design
+3. Frontend Development
+4. Camera Integration
+5. Hand Tracking Implementation
+6. AI Experience Development
+7. Testing and Optimization
+8. Deployment Preparation
 
-1. Push your code to a GitHub repository.
-2. Go to the [Vercel Dashboard](https://vercel.com).
-3. Click **Add New** > **Project** and import your repository.
-4. Vercel will automatically detect **Vite** as the framework.
-5. Click **Deploy**. Vercel will build the React bundle and deploy it globally on their Edge network.
+# Result and Discussion
 
----
+AI FunVerse successfully provides multiple AI-powered experiences that users can enjoy directly through their web browser. The platform demonstrates how Artificial Intelligence and Computer Vision can be used to create fun, interactive, and educational applications. The project offers smooth real-time interaction while maintaining a simple and user-friendly interface.
 
-## ⚙️ Performance Tuning & Diagnostics
+# Limitation
 
-* **60 FPS Target:** Models are loaded lazily and cached globally. Moving between experiences will **not** reload or re-download model tasks from the CDN.
-* **Lighting Calibration:** The cloner tracks relative brightness. If your surroundings are too dark, turn on ambient lights to ensure high-fidelity face/hand landmark matching.
+* Performance depends on camera quality and lighting conditions.
+* Hand tracking accuracy may reduce in low-light environments.
+* Some visual effects require a modern browser for the best experience.
+* Performance may vary on low-end devices.
+
+# Future Scope
+
+* Add more AI-powered games and experiences.
+* Introduce body pose and voice gesture interactions.
+* Add multiplayer game modes.
+* Include online leaderboards and achievements.
+* Develop a mobile-friendly version with additional AR features.
+
+# Conclusion
+
+AI FunVerse is an innovative browser-based platform that combines Artificial Intelligence, Computer Vision, and entertainment into one engaging application. It demonstrates how AI can be used to create enjoyable and interactive experiences while remaining easy to access and use. With future enhancements, AI FunVerse has the potential to become a complete AI entertainment platform for learning and fun.
