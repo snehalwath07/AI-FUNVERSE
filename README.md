@@ -8,7 +8,7 @@ https://ai-funverse.vercel.app/
 
 **AI FunVerse**
 
-**Author(s):** Snehal Wath
+**Author:** Snehal Wath
 
 **Affiliation:** RTMNU
 
