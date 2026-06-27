@@ -1,0 +1,64 @@
+AI-FUNVERSE/
+│
+├── dist/
+│   ├── assets/
+│   │   ├── index-BZnSPe1-.js
+│   │   └── index-Cr1BfKMs.css
+│   ├── favicon.svg
+│   ├── icons.svg
+│   └── index.html
+│
+├── node_modules/
+│
+├── public/
+│   ├── favicon.svg
+│   └── icons.svg
+│
+├── src/
+│   │
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── react.svg
+│   │   └── vite.svg
+│   │
+│   ├── components/
+│   │   ├── CameraManager.tsx
+│   │   ├── CustomCursor.tsx
+│   │   ├── Footer.tsx
+│   │   ├── InstructionsPanel.tsx
+│   │   └── Navbar.tsx
+│   │
+│   ├── experiences/
+│   │   ├── ColorBallHunter.tsx
+│   │   ├── InvisibleCloak.tsx
+│   │   ├── LivePuzzle.tsx
+│   │   ├── MagicZone.tsx
+│   │   ├── NeonAirDrawing.tsx
+│   │   └── RockPaperScissors.tsx
+│   │
+│   ├── hooks/
+│   │   ├── useMediaPipe.ts
+│   │   └── useWebcam.ts
+│   │
+│   ├── pages/
+│   │   └── Home.tsx
+│   │
+│   ├── utils/
+│   │   ├── audio.ts
+│   │   └── tracking.ts
+│   │
+│   ├── App.css
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+│
+├── .gitignore
+├── .oxlintrc.json
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
