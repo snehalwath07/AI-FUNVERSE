@@ -1,0 +1,191 @@
+# Step 1: Open the Website
+
+Open AI FunVerse using the following link:
+
+https://ai-funverse.vercel.app/
+
+You will be redirected to the homepage of the platform.
+
+---
+
+# Step 2: Explore the Homepage
+
+The homepage contains:
+
+* Navigation Bar
+* Hero Section
+* Featured Experience
+* Experience Cards
+* Instructions
+* Footer
+
+Read the information to understand the different AI-powered experiences available.
+
+---
+
+# Step 3: Choose an Experience
+
+Scroll to the **Explore Experiences** section.
+
+You will find the following experiences:
+
+* Harry Potter Invisible Cloak
+* Neon Air Drawing
+* Color Ball Hunter
+* Rock Paper Scissors
+* Magic Zone
+* Live Puzzle
+
+Click the **Play** button on any experience you want to explore.
+
+---
+
+# Step 4: Allow Camera Permission
+
+When prompted by your browser:
+
+Click **Allow Camera Access**.
+
+The selected experience will start after the camera is enabled.
+
+For the best performance:
+
+* Use a well-lit room.
+* Keep your hands clearly visible.
+* Stand about 1–2 meters from the camera.
+
+---
+
+# Step 5: Harry Potter Invisible Cloak
+
+Open the **Harry Potter** experience.
+
+Steps:
+
+* Click **Capture Background**.
+* Step out of the camera frame while the background is captured.
+* Return in front of the camera.
+* Hold a red cloth or towel in front of your body.
+* Watch the invisible cloak effect appear in real time.
+
+---
+
+# Step 6: Neon Air Drawing
+
+Open **Neon Air Drawing**.
+
+Using your hand:
+
+* Raise your index finger to start drawing.
+* Move your finger in the air to create glowing sketches.
+* Use the available controls to change brush color and size.
+* Clear the canvas whenever required.
+
+---
+
+# Step 7: Color Ball Hunter
+
+Open **Color Ball Hunter**.
+
+Gameplay:
+
+* Floating color balls will appear on the screen.
+* Use only your **index finger** to touch the balls.
+* Each successful hit increases your score.
+* Avoid missing too many balls.
+* Try to achieve the highest score before the timer ends.
+
+---
+
+# Step 8: Rock Paper Scissors
+
+Open **Rock Paper Scissors**.
+
+Gameplay:
+
+* Show Rock, Paper, or Scissors using your hand.
+* The AI selects its move automatically.
+* Each match consists of **5 rounds**.
+* The player who wins the most rounds is declared the winner.
+* Click **Play Again** to start a new match.
+
+---
+
+# Step 9: Magic Zone
+
+Open **Magic Zone**.
+
+Steps:
+
+* Allow camera access.
+* Raise your hands in front of the camera.
+* Move your hands to activate magical visual effects.
+* Explore different hand movements and enjoy the interactive animations.
+
+---
+
+# Step 10: Live Puzzle
+
+Open **Live Puzzle**.
+
+Steps:
+
+* Create a square using the index finger and thumb of both hands.
+* The selected area is captured automatically.
+* The captured image is converted into a shuffled puzzle.
+* Use your **index finger** to drag and place each puzzle piece.
+* Complete the puzzle to display the **Winner** message.
+
+---
+
+# How It Works
+
+### Step 1
+
+Open AI FunVerse and choose any experience.
+
+### Step 2
+
+Allow camera permission.
+
+### Step 3
+
+The browser detects your hand movements and camera input in real time.
+
+### Step 4
+
+The selected AI experience starts instantly without any software installation.
+
+---
+
+# Supported Browsers
+
+* Google Chrome (Recommended)
+* Microsoft Edge
+* Mozilla Firefox
+* Brave Browser
+
+---
+
+# Tips for Best Results
+
+* Use the platform in a well-lit environment.
+* Keep your webcam clean.
+* Allow camera permissions when requested.
+* Keep your hands clearly visible inside the camera frame.
+* Use Google Chrome for the smoothest experience.
+* Close other applications that may be using your webcam.
+* Refresh the page if the camera does not start properly.
+
+---
+
+# Experiences Included
+
+* Harry Potter Invisible Cloak
+* Neon Air Drawing
+* Color Ball Hunter
+* Rock Paper Scissors
+* Magic Zone
+* Live Puzzle
+
+AI FunVerse combines Artificial Intelligence, Computer Vision, and interactive entertainment to deliver fun browser-based experiences that run directly on your device.
